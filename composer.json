@@ -1,0 +1,18 @@
+{
+    "name": "talgatfox/php-iin-validator",
+    "description": "Simple IIN(Individual identification number) validator",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "talgat065",
+            "email": "talgat06585@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Talgatfox\\IinValidator\\": "src"
+        }
+    }
+}
