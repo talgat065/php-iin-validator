@@ -2,9 +2,7 @@
 
 Easily check IIN if it's correct by calculating check sum.
 
-### For further deatails see the GitHuib Pages site: http://faisalman.github.com/simple-excel-php ###
-
-## PHP Versions Supported
+## Requirements
 
 PHP >= 7.1
 
