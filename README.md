@@ -20,6 +20,6 @@ If you're using Composer to manage libraries, include this package in your compo
 use Talgatfox\IinValidator\IinValidator;
 
 $validator = new IinValidator();
-$validator->validate($iinString);
+$isValid = $validator->validate($iinString); // returns true if it's valid otherwise false
 
 ```
