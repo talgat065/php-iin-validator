@@ -5,11 +5,13 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "talgat065",
+            "name": "talgatfox",
             "email": "talgat06585@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php": ">=7.1"
+    },
     "autoload": {
         "psr-4": {
             "Talgatfox\\IinValidator\\": "src"
